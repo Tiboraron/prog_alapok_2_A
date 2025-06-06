@@ -12,3 +12,30 @@ h1
     font-size: 100px!important;
     text-align: center;
 }
+.fk {
+    font-weight: bold;
+}
+.fekete {
+    color: black;
+}
+.zöld {
+color: green;
+}
+.piros {
+color: red;
+}
+.kék {
+color: blue;
+}
+.alakzat {
+    font-size: 6em;
+    text-align: center;
+    margin: 0;
+}
+.kepalairas {
+    font-style: italic;
+    font-size: 12px ;
+    text-align: center;
+    border: solid 1px black;
+    border-radius: 6px;
+}
